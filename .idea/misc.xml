@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (xtals)" project-jdk-type="Python SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/dtxtals/rl/policy.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="530" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/dtxtals/rl/wrappers.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="171" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/dtxtals/rl/config.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="15549" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/dtxtals/rl/utils.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="8569" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/dtxtals/rl/finder.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="3773" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/dtxtals/rl/core.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/dtxtals/rl/callbacks.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="53" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/dtxtals/detector/detector_config.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/dtxtals/detector/detector_utils.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1570" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/find_crystals.py" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
