@@ -1,7 +1,7 @@
 ## Dynamic zoom-in detection of exfoliated two-dimensional crystals using reinforcement learning
 
 <p align="center">
-  <img src="readme/032_097.gif" width="50%" height="50%"/>
+  <img src="readme/032_097.gif" width="70%" height="70%"/>
 </p>
 
 <p align="center">
