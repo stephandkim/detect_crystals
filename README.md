@@ -8,19 +8,18 @@
 (left) A high resolution image, (center) a downsampled, binary coarse image, (right) a zoomed-in image.
 </p>  
 
-*Manuscript in progress:* https://arxiv.org/abs/2209.04467
+https://arxiv.org/abs/2209.04467
   
-The two-dimensional materials are an exciting platform for various studies because of their tunability and versatility. Despite the tremendous potential, device fabrication remains a major experimental challenge. One bottleneck is the process of searching for images of candidate crystals from an exfoliated bunch, which greatly vary in shapes and sizes. We propose the methods to accurately and efficiently search for desired crystals by zooming in, based on reinforcement learning and object detection. Our method utilizes the unique image settings of exfoliated crystals to reduce the computation power. The proposed method showed enhancement in average precision of ~0.5 compared to the baseline. Finally, we quantify the effectiveness of the reinforcement learning agent in the searching process.
+Owing to their tunability and versatility, the two-dimensional materials are an excellent platform to conduct a variety of experiments. However, laborious device fabrication procedures remain as a major experimental challenge. One bottleneck is searching small target crystals from a large number of exfoliated crystals that greatly vary in shapes and sizes. We present a method, based on a combination of deep reinforcement learning and object detection, to accurately and efficiently discover target crystals from a high resolution image containing many microflakes. The proposed method dynamically zooms in to the region of interest and inspects it with a fine detector. Our method can be customized for searching various types of crystals with a modest computation power. We show that our method outperformed a simple baseline in detection tasks. Finally, we analyze the efficiency of the deep reinforcement learning agent in searching crystals.
 
 ------
 <p align="center">
-  <img src="readme/architecture.svg" width="50%" height="50%"/>
-  <img src="readme/efficiency.svg" width="35%" height="35%"/>
+  <img src="readme/architecture_github.svg" width="50%" height="50%"/>
 </p>
 
 
 <p align="center">
-(left) The architecture of the proposed methods, (right) efficiency of the reinforcement leanring agent in collecting polygons. The variable $N_P$ is the number of maximum polygon during training.
+The reinforcement learning schematic for our method.
 </p>  
 
 ## Quick usage/test
